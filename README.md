@@ -1,4 +1,4 @@
-# Assignment 5: Public Key Cryptography
+# Public Key Cryptography
 
 ## Short Description:
     This program uses asymmetric cryptography to generate public private key pairs.
